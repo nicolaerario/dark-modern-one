@@ -1,0 +1,21 @@
+{
+  "name": "dark-modern-one",
+  "displayName": "Dark Modern One",
+  "description": "For those who like Dark modern but more One",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Modern One",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark_Modern_One-color-theme.json"
+      }
+    ]
+  }
+}
