@@ -2,6 +2,7 @@
   "name": "dark-modern-one",
   "displayName": "Dark Modern One",
   "description": "For those who like Dark modern but more One",
+  "repository": "https://github.com/nicolaerario/dark-modern-one",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"
