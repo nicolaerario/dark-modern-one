@@ -142,6 +142,7 @@
     "statusBar.foreground": "#9da5b4",
     "statusBar.noFolderBackground": "#21252b",
     "statusBarItem.focusBorder": "#0078d4",
+    "statusBarItem.hoverForeground": "#ffffff",
     "statusBarItem.prominentBackground": "#6e768166",
     "statusBarItem.remoteBackground": "#466cb8",
     "statusBarItem.remoteForeground": "#f8fafd",
