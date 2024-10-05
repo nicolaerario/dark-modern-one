@@ -117,7 +117,7 @@
     "pickerGroup.border": "#3c3c3c",
     "ports.iconRunningProcessForeground": "#369432",
     "progressBar.background": "#0078d4",
-    "quickInput.background": "#222222",
+    "quickInput.background": "#21252b",
     "quickInput.foreground": "#cccccc",
     "scrollbar.shadow": "#23252c",
     "scrollbarSlider.activeBackground": "#747d9180",
