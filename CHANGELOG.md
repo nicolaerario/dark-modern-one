@@ -1,6 +1,6 @@
 # CHANGE LOG
 
-## [0.0.1] 2024-10-04
+## 0.0.1 2024-10-04
 
 - Initial release
 
