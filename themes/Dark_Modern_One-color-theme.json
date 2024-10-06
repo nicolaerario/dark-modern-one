@@ -32,7 +32,7 @@
     "dropdown.listBackground": "#21252b",
     "editor.background": "#1c2026",
     "editor.findMatchBackground": "#9e6a03",
-    "editor.foreground": "#d4d4d4",
+    "editor.foreground": "#cccccc",
     "editor.inactiveSelectionBackground": "#3a3d4150",
     "editor.lineHighlightBackground": "#2c313c50",
     "editor.selectionBackground": "#67769660",
