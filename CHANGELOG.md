@@ -1,8 +1,8 @@
 # CHANGE LOG
 
-## 0.0.1 2024-10-04
+## [0.1.1] 2024-10-07
 
-- Initial release
+- Add better contrast of text selection
 
 ## [0.1.0] 2024-10-05
 
@@ -20,4 +20,9 @@
 
 - Remove cursor colors
 
+## 0.0.1 2024-10-04
+
+- Initial release
+
+[0.1.1]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.1
 [0.1.0]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.0
