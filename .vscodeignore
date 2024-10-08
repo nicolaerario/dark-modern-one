@@ -4,3 +4,4 @@
 vsc-extension-quickstart.md
 .npmrc
 .github
+node_modules
