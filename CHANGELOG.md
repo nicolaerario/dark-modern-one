@@ -1,5 +1,11 @@
 # CHANGE LOG
 
+## [0.1.3] 2024-10-09
+
+### Fixes 🐞
+
+- Fix panel and terminal background
+
 ## [0.1.2] 2024-10-09
 
 ### New Features 🎉
@@ -31,6 +37,7 @@
 
 - Initial release
 
+[0.1.3]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.3
 [0.1.2]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.2
 [0.1.1]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.1
 [0.1.0]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.0
