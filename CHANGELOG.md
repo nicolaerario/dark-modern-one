@@ -1,5 +1,12 @@
 # CHANGE LOG
 
+## [0.1.2] 2024-10-09
+
+### New Features 🎉
+
+- Add semantic highlighting and colors
+- [DEV] Add prettier and build depencies
+
 ## [0.1.1] 2024-10-07
 
 - Add better contrast of text selection
@@ -24,5 +31,6 @@
 
 - Initial release
 
+[0.1.2]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.2
 [0.1.1]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.1
 [0.1.0]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.0
