@@ -1,5 +1,12 @@
 # CHANGE LOG
 
+## [0.1.4] 2024-10-11
+
+### Changes 💅
+
+- Add more consistency for inputs, harmonizing them with the panel
+- Update border and background of the input option
+
 ## [0.1.3] 2024-10-09
 
 ### Fixes 🐞
@@ -29,7 +36,7 @@
 - Add workaround for debug status bar hover
 - Replace legacy colors
 
-### Refactors 💅
+### Changes 💅
 
 - Remove cursor colors
 
@@ -37,6 +44,7 @@
 
 - Initial release
 
+[0.1.4]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.4
 [0.1.3]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.3
 [0.1.2]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.2
 [0.1.1]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.1
