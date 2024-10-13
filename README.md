@@ -39,7 +39,8 @@ To enable italic text for specific syntax elements (e.g., comments, variables), 
 
 ### Suggested fonts
 
-[JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)  
+[IBM Plex Mono](https://github.com/IBM/plex)  
+[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)  
 [MonaSpace Neon](https://github.com/githubnext/monaspace)
 
 ### Credits
