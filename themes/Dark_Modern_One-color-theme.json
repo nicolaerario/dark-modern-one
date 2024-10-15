@@ -19,7 +19,6 @@
     "button.secondaryBackground": "#30333d",
     "button.secondaryForeground": "#c0bdbd",
     "button.secondaryHoverBackground": "#3c3c3c",
-    "chat.editedFileForeground": "#e2c08d",
     "chat.slashCommandBackground": "#34414b",
     "chat.slashCommandForeground": "#40a6ff",
     "checkbox.background": "#313131",
