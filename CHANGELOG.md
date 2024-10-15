@@ -1,5 +1,11 @@
 # CHANGE LOG
 
+## [0.1.5] 2024-10-15
+
+### New Features 🎉
+
+- Add foreground colors for editor suggestions widget highlights
+
 ## [0.1.4] 2024-10-11
 
 ### Changes 💅
@@ -44,6 +50,7 @@
 
 - Initial release
 
+[0.1.5]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.5
 [0.1.4]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.4
 [0.1.3]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.3
 [0.1.2]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.2
