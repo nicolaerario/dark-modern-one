@@ -60,6 +60,8 @@
     "editorRuler.foreground": "#abb2bf26",
     "editorSuggestWidget.background": "#21252b",
     "editorSuggestWidget.border": "#181a1f",
+    "editorSuggestWidget.focusHighlightForeground": "#4daafc",
+    "editorSuggestWidget.highlightForeground": "#61afef",
     "editorSuggestWidget.selectedBackground": "#2c313a",
     "editorWarning.foreground": "#d19a66",
     "editorWhitespace.foreground": "#ffffff1d",
