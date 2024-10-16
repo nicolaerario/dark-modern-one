@@ -1,5 +1,14 @@
 # CHANGE LOG
 
+## [0.1.6] 2024-10-16
+
+### New Features 🎉
+
+- Add foreground color for focus highlight text (like in suggestions, quick input, etc)
+- Update gutter/minimap gutter colors
+- Update error/warning colors
+- Make sidebar text more brighter
+
 ## [0.1.5] 2024-10-15
 
 ### New Features 🎉
@@ -50,6 +59,7 @@
 
 - Initial release
 
+[0.1.6]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.6
 [0.1.5]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.5
 [0.1.4]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.4
 [0.1.3]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.3
