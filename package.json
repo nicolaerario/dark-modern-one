@@ -18,7 +18,7 @@
   "sponsor": {
     "url": "https://github.com/sponsors/nicolaerario"
   },
-  "version": "0.1.6",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.94.0"
   },

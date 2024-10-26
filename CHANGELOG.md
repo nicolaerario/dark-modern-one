@@ -1,5 +1,17 @@
 # CHANGE LOG
 
+## [0.2.0] 2024-10-26
+
+### New Features 🎉
+
+- Add italics/no italics theme variants
+- Update italics section of the readme
+- Add theme screenshots in the readme
+
+### Dependencies 🛠️
+
+- Bump @vscode/vsce from 3.1.1 to 3.2.0
+
 ## [0.1.6] 2024-10-16
 
 ### New Features 🎉
@@ -59,6 +71,7 @@
 
 - Initial release
 
+[0.2.0]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.2.0
 [0.1.6]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.6
 [0.1.5]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.5
 [0.1.4]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.4
