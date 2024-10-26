@@ -28,7 +28,9 @@
   ],
   "keywords": [
     "dark modern",
-    "theme"
+    "dark",
+    "theme",
+    "italics"
   ],
   "galleryBanner": {
     "color": "#03111b",
@@ -40,6 +42,11 @@
         "label": "Dark Modern One",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark_Modern_One-color-theme.json"
+      },
+      {
+        "label": "Dark Modern One (No italics)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark_Modern_One_no_italics-color-theme.json"
       }
     ]
   },
