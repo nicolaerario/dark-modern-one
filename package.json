@@ -42,13 +42,13 @@
         "id": "Default Dark Modern One",
         "label": "Dark Modern One",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark_Modern_One-color-theme.json"
+        "path": "./themes/Default_DMO-color-theme.json"
       },
       {
         "id": "Dark Modern One without italics",
         "label": "Dark Modern One (No italics)",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark_Modern_One_no_italics-color-theme.json"
+        "path": "./themes/Base_DMO-color-theme.json"
       }
     ]
   },
