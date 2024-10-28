@@ -1,5 +1,5 @@
 {
-  "name": "Dark Modern One",
+  "name": "Dark Modern One without italics",
   "type": "dark",
   "colors": {
     "actionBar.toggledBackground": "#525761",
@@ -719,28 +719,6 @@
       "scope": "entity.name.label",
       "settings": {
         "foreground": "#C8C8C8"
-      }
-    },
-    {
-      "scope": [
-        "comment",
-        "constant.language",
-        "entity.other.attribute-name",
-        "keyword.control",
-        "keyword.operator.expression",
-        "keyword.operator.new",
-        "storage",
-        "variable.language",
-        "variable.parameter"
-      ],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": "storage.type.function.arrow",
-      "settings": {
-        "fontStyle": ""
       }
     },
     {

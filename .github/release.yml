@@ -15,6 +15,9 @@ changelog:
     - title: Changes 💅
       labels:
         - refactor
+    - title: Development 🧑‍💻
+      labels:
+        - development
     - title: Dependencies 🛠️
       labels:
         - dependencies
