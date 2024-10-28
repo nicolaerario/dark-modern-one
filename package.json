@@ -39,8 +39,8 @@
   "contributes": {
     "themes": [
       {
-        "id": "Default Dark Modern One",
-        "label": "Dark Modern One",
+        "id": "Dark Modern One",
+        "label": "Dark Modern One (Default)",
         "uiTheme": "vs-dark",
         "path": "./themes/Default_DMO-color-theme.json"
       },
