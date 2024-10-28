@@ -180,7 +180,7 @@
     "terminal.ansiYellow": "#d18f52",
     "terminal.background": "#21252b",
     "terminal.border": "#3e4452",
-    "terminal.foreground": "#abb2bf",
+    "terminal.foreground": "#cccccc",
     "terminal.inactiveSelectionBackground": "#3a3d41",
     "terminal.selectionBackground": "#abb2bf30",
     "terminal.tab.activeBorder": "#466cb8",
