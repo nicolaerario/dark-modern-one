@@ -1,5 +1,11 @@
 # CHANGE LOG
 
+## [0.3.0] 2024-10-30
+
+### New Features 🎉
+
+- Add bordered theme variant
+
 ## [0.2.1] 2024-10-28
 
 ### New Features 🎉
@@ -85,6 +91,7 @@
 
 - Initial release
 
+[0.3.0]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.3.0
 [0.2.1]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.2.1
 [0.2.0]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.2.0
 [0.1.6]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.1.6
