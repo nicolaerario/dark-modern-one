@@ -30,7 +30,8 @@
     "dark modern",
     "dark",
     "theme",
-    "italics"
+    "italics",
+    "borders"
   ],
   "galleryBanner": {
     "color": "#03111b",
@@ -49,6 +50,12 @@
         "label": "Dark Modern One (No italics)",
         "uiTheme": "vs-dark",
         "path": "./themes/Base_DMO-color-theme.json"
+      },
+      {
+        "id": "Dark Modern One bordered",
+        "label": "Dark Modern One (Bordered)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bordered_DMO-color-theme.json"
       }
     ]
   },

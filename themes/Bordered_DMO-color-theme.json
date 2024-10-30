@@ -1,0 +1,13 @@
+{
+  "name": "Bordered Dark Modern One",
+  "type": "dark",
+  "include": "./Default_DMO-color-theme.json",
+  "colors": {
+    "activityBar.border": "#010409",
+    "panel.border": "#010409",
+    "sideBar.border": "#010409",
+    "sideBarSectionHeader.border": "#010409",
+    "statusBar.border": "#010409",
+    "titleBar.border": "#010409"
+  }
+}
