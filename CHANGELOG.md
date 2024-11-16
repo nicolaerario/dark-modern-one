@@ -1,4 +1,10 @@
-# CHANGE LOG
+# CHANGELOG
+
+## [0.3.1] 2024-11-16
+
+### Changes 💅
+
+- Update statusbar background when no project is open
 
 ## [0.3.0] 2024-10-30
 
@@ -91,6 +97,7 @@
 
 - Initial release
 
+[0.3.1]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.3.1
 [0.3.0]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.3.0
 [0.2.1]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.2.1
 [0.2.0]: https://github.com/nicolaerario/dark-modern-one/releases/tag/0.2.0
