@@ -63,7 +63,7 @@
     "publish": "vsce publish"
   },
   "devDependencies": {
-    "@vscode/vsce": "^3.7.1",
+    "@vscode/vsce": "^3.9.1",
     "prettier": "^3.8.3"
   }
 }
